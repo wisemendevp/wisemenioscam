@@ -72,7 +72,7 @@
     NSString* imagePath = [documentsDirectory stringByAppendingPathComponent:filename];
     
     // Get the image data (blocking; around 1 second)
-    NSData* imageData = UIImageJPEGRepresentation(image, 0.5);
+    NSData* imageData = UIImageJPEGRepresentation(image, 1.0);
     [imageData writeToFile:imagePath atomically:YES];
     NSString * str5 = [defaults objectForKey:@"k1"];
     //UIImage *img = [UIImage imageWithContentsOfFile:imagePath];
