@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DF7DE652-4DB7-413F-BA4C-F47165C9D343</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ioscamera</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D0C6386AD41CC79D33DF748F0C276A86A3E7F68D</key>
+		<string>https://github.com/wisemendevp/wisemenioscam.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/ioscamera.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D0C6386AD41CC79D33DF748F0C276A86A3E7F68D</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wisemendevp/wisemenioscam.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D0C6386AD41CC79D33DF748F0C276A86A3E7F68D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D0C6386AD41CC79D33DF748F0C276A86A3E7F68D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ioscamera</string>
+		</dict>
+	</array>
+</dict>
+</plist>
